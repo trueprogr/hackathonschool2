@@ -1,0 +1,28 @@
+wrapper{
+    width: 80%; 
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.icons{
+    position: relative;
+    margin-left: 90%;
+    margin-top: -50px;
+}
+.text{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: -30px;
+}
+.flex{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+header{
+    margin-top: 100px;
+}
